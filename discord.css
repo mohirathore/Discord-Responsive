@@ -1,0 +1,108 @@
+.submain{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.heading{
+    display: flex;
+
+}
+
+.padding{
+    padding: 0px 20px;
+    font-family: "gg sans","Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: white;
+}
+.imagine{
+    text-align: center;
+    padding: 80px;
+    font-size: 25px;
+    color: white;
+    height: 58vh;
+
+}
+.para{
+    font-family: "gg sans","Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 20px;
+}
+.a{
+    font-family: "ABC Ginto Nord","Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 70px;
+    font-weight: 800;
+}
+.main{
+    background-image:url("https://theme.zdassets.com/theme_assets/678183/b7e9dce75f9edb23504e13b4699e208f204e5015.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.b1{
+    width: 22%;
+    height: 9vh;
+    border-radius: 33px;
+    border-style: hidden;
+    background-color: white;
+    color: black;
+    font-size: 18px;
+
+}
+.b2{
+    width: 22%;
+    height: 9vh;
+    border-radius: 33px;
+    border-style: hidden;
+    background-color: #292222;
+    color: white;
+    font-size: 18px;
+}
+.s2{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 100PX;
+}
+.d{
+    font-size: 21px;
+    font-family: "gg sans","Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+.button{
+    width: 65px;
+    height: 43px;
+    border-radius: 31px;
+    border-style: hidden;
+}
+
+.secondheadline{
+
+
+    font-size: 21px;
+    font-family: "gg sans","Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align: center;
+    padding: 100px;
+
+}
+.stars{
+
+    background-image: url("data:image/webp;base64,UklGRuQBAABXRUJQVlA4INgBAACwGACdASqrAlkAPt1utVSopiUjIRQIMRAbiWlu4XVRCiwDbV3YAoAR2WIfXie9JAgQIECAmB1RRZsPyralW1KtjgdTVAYzPftKOOGXKozS5cuXLly5cuXZYT3pIECBASW9RpV6ARNJ135qS9OULd8y/FqQX4nRPekgQIEQSMuRXUpAbaRInLTQG2hvDFfnTp06dOnTp06dOnTp0LUtj5gq7ED+AaBv8sV+dOnTp06dOnTp06dOnTp1Au8TpdYnvSQIECBAgQIECBAgQIEBIAD+/v6AHV1oLq8o7sQCDecpzXmzQ3egNi7T+/twU9SSQ7Syb2te1r2te1r2teVmoxbFbgD2FzoBNUIDS/w3tGYbPtiz7v54Cvw0tmv8fuHwU4ABEwggPW/7JWgfLVPJ/K2TsqH4iPPNTXIVMTiiHDwAgQxHjxBZG8P9mqDDim+UC6tifQpvaHAxpj83Pc3KLQNKFp6hLSBkIlKSy96tcv4FREZpJAAGKadtoF3jJMrJbjcAbi8atlz5MJQiOi2giS4i6d3UFRAAhv7MLpv/erf/j9bA/iX/gOTzQIQFuuSkt2SDKs3XVTgnOYzQR3NmV3lqal70gizX3CCrbivc50pxahAAAbZgAAAA");
+
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    font-size: 35px;
+    font-family: "gg sans","Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.c{
+    text-align: center;
+}
+
+.last{
+    height: 55px;
+    width: 270px;
+    font-size: 20px;
+    border-radius: 70px;
+    border-style: hidden;
+    background-color: #5865f2;
+    color: #fff;
+}
